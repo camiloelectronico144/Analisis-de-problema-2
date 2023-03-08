@@ -20,9 +20,9 @@ Mediana: $ 797500.0
 Tercer Cuartil: $ 872750.0
 Rango Intercuartil: $ 139000.0
 
->>> Según los resultados el restaurante durante un mes tuvo un total de ventas de $ 25,679,000. El valor mínimo de las ventas fue de $548,000 y el valor máximo de $1,059,000. El valor promedio de las ventas en este período fue de $802,468.75, con una desviación estándar de $124,936.98.
+>>> Haciendo un análisis según los resultados el restaurante durante este mes tuvo un total de ventas de $25679000 COP lo cual es muy bueno para un restaurante que apenas esta empezando. El valor mínimo de las ventas fue de $548000548,000 COP y el valor máximo de $1059000 COP. El valor promedio de las ventas en este período fue de $802,468.75 COP, con una desviación estándar de $802468.75 COP.
 
-El primer cuartil indica que el 25% de las ventas fueron menores o iguales a $733,750. La mediana indica que el 50% de las ventas estuvieron por debajo de $797,500. El tercer cuartil indica que el 75% de las ventas fueron menores o iguales a $872,750. El rango intercuartil, que es la diferencia entre el tercer cuartil y el primer cuartil, es de $139,000.
+El primer cuartil indica que el 25% de las ventas fueron menores o iguales a $733750.0 COP. La mediana indica que el 50% de las ventas estuvieron por debajo de $797500.0 COP. El tercer cuartil indica que el 75% de las ventas fueron menores o iguales a $872750.0 COP. El rango intercuartil, que es la diferencia entre el tercer cuartil y el primer cuartil, es de $139000.0 COP.
 
-El valor promedio de las ventas es alto, la mediana está bastante cerca del valor promedio. La desviación estándar es baja en comparación con el valor promedio, lo que nos quiere decir que la distribución de las ventas no es muy dispersa.
+Entonces podemos decir que el valor promedio de las ventas es alto, la mediana está bastante cerca del valor promedio. La desviación estándar es baja en comparación con el valor promedio, lo que nos quiere decir que la distribución de las ventas no es muy dispersa.
 
